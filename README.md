@@ -1,6 +1,6 @@
 <h1>Projeto de Estudo DIO.me - Landing Page Trilha de CSS v1.0</h1>
 
-O desafio faz parte do módulo 1 da Formação CSS Web Developer do site DIO.me e consistia em aplicar estilização CSS a uma página já estruturada em HTML.
+O desafio faz parte do módulo 1 da Formação CSS Web Developer da plataforma DIO.me e consistia em aplicar estilização CSS a uma página já estruturada em HTML.
 
 Foi disponibilizado um arquivo em Figma com o modelo do site.
 
